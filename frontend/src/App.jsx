@@ -1,10 +1,14 @@
-import { Button } from "./components/ui/button";
+import { Routes, Route } from "react-router-dom";
+import LandingPage from "./pages/LandingPage";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <div>
-      <h1>Sahan</h1>
-      <Button>Click Me</Button>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<LandingPage />} />
+      </Routes>
     </div>
   );
 }
