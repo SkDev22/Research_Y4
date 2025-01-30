@@ -57,8 +57,85 @@ This feature benefits both seekers and owners by ensuring competitive pricing wh
 - **Version Control**: Git, GitHub
 - **Cloud Services**: AWS/GCP for storage and deployment
 
+## Dependencies
+
+### Frontend
+
+- "@radix-ui/react-slot": "^1.1.1"
+- "axios": "^1.7.9"
+- "class-variance-authority": "^0.7.1"
+- "clsx": "^2.1.1"
+- "lucide-react": "^0.469.0"
+- "react": "^18.3.1"
+- "react-dom": "^18.3.1"
+- "react-icons": "^5.4.0"
+- "react-router-dom": "^7.1.1"
+- "tailwind-merge": "^2.6.0"
+- "tailwindcss-animate": "^1.0.7"
+- "@eslint/js": "^9.17.0",
+- "@types/react": "^18.3.18",
+- "@types/react-dom": "^18.3.5",
+- "@vitejs/plugin-react": "^4.3.4",
+- "autoprefixer": "^10.4.20",
+- "eslint": "^9.17.0",
+- "eslint-plugin-react": "^7.37.2",
+- "eslint-plugin-react-hooks": "^5.0.0",
+- "eslint-plugin-react-refresh": "^0.4.16",
+- "globals": "^15.14.0",
+- "postcss": "^8.4.49",
+- "tailwindcss": "^3.4.17",
+- "vite": "^6.0.5"
+
+### Backend
+
+- "bcrypt": "^5.1.1",
+- "cors": "^2.8.5",
+- "dotenv": "^16.4.7",
+- "express": "^4.21.2",
+- "jsonwebtoken": "^9.0.2",
+- "mongoose": "^8.9.2",
+- "validator": "^13.12.0"
+- "nodemon": "^3.1.9"
+
 ## Architecture
 
-![Architecture Diagram](https://github.com/Research-Project-Team/Research_BHBS/blob/main/Architecture%20Diagram.jpg?raw=true)
+![Architecture Diagram](https://github.com/SkDev22/Research_Y4/blob/main/Architecture%20Diagram.jpg?raw=true)
 
 LodgeLink is built on **MERN** stack, offering a robust and adaptable platform for web applications. The backend handles data management, API endpoints, and core functionality, while the frontend delivers a user-friendly interface. Machine learning models are incorporated into the backend to analyze and process data, providing users with valuable insights.
+
+## Installation
+
+### Prerequisites
+
+- **Node.js**: [Download and Install](https://nodejs.org/)
+- **MongoDB**: [Download and Install](https://www.mongodb.com/)
+- **Python**: [Download and Install](https://www.python.org/)
+- **Git**: [Download and Install](https://git-scm.com/)
+
+### Setup the project
+
+### Backend Setup
+
+1. Clone the project: [GitHub Repository](https://github.com/SkDev22/Research_Y4.git)
+
+2. Navigate to backend directory
+
+   `cd backend`
+
+3. Install Dependencies
+4. Configure Environment Variables
+5. Run the Server
+
+   `python app.py`
+
+### Frontend Setup
+
+1. Navigate to Frontend Directory
+
+   `cd frontend`
+
+2. Install Dependencies
+3. Configure Environment Variables
+4. Run the Frontend
+
+   `npm run dev`
