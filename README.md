@@ -139,3 +139,7 @@ LodgeLink is built on **MERN** stack, offering a robust and adaptable platform f
 4. Run the Frontend
 
    `npm run dev`
+
+## Updates
+
+Working on Frontend and Backend developments of the website and the research paper.
