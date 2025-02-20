@@ -15,17 +15,17 @@
         - Premium features (AC, kitchen type)
         - Utilities inclusion
         - Security features (CCTV, warden)
-c) Market Dynamics:
-Seasonal pricing (academic calendar)
-Event-based adjustments
-Gender-specific options
-Future price predictions
-d) Review System:
-Overall property rating
-Maintenance quality
-Cleanliness standards
-Value for money
-Landlord responsiveness
+    c) Market Dynamics:
+        - Seasonal pricing (academic calendar)
+        - Event-based adjustments
+        - Gender-specific options
+        - Future price predictions
+    d) Review System:
+        - Overall property rating
+        - Maintenance quality
+        - Cleanliness standards
+        - Value for money
+        - Landlord responsiveness
 Business Value: a) For Students:
 Fair price expectations
 Quality-to-price comparison
