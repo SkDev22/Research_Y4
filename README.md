@@ -1,58 +1,20 @@
-1. Location Features:
-  - Distance to food outlets (0.1-2.0 km)
-  - Distance to transport (0.1-1.5 km)
-  - Area type (main road/residential)
-  - Safety score (5-10)
-2. Review System:
-Overall rating (3.5-5.0)
-Number of reviews (0-100)
-Landlord response time (1-24 hours)
-Maintenance, cleanliness, and value ratings
-Price Predictions:
-Current month price
-Last month price
-Next month price
-Next year estimate (with 6.5% inflation)
-Model Performance:
-R-squared Score: 0.9236 (92.36% accuracy)
-Mean Absolute Error: LKR 1,023.30
-The model now considers:
-
-Base location (distance to university)
-Amenities and facilities
-Seasonal variations
-Location features (transport, food, safety)
-Review metrics
-Future price projections with inflation
-Would you like me to:
-
-Adjust any of the feature weightings?
-Add more specific Sri Lankan market factors?
-Modify the inflation rate?
-Add any other features?
-DoneFeedback has been submitted
-Me
-
-again explain me about this modal capabilities and worth $
-
-Let me explain the model's capabilities and value proposition:
-
-Price Prediction Capabilities:
-Base Price Range: LKR 10,000 - 55,000
-Accuracy: 92.36% (R-squared: 0.9236)
-Average Error: Only ±LKR 1,023.30
-Key Features: a) Location Intelligence:
-Distance to university (primary factor)
-Distance to food outlets (≤ 2km)
-Distance to public transport (≤ 1.5km)
-Area safety score (1-10)
-Area type (main road/residential)
-b) Amenity Analysis:
-Room types (single/shared-2/shared-4)
-Basic amenities (WiFi, bathroom type)
-Premium features (AC, kitchen type)
-Utilities inclusion
-Security features (CCTV, warden)
+1. Price Prediction Capabilities:
+    - Base Price Range: LKR 10,000 - 55,000
+    - Accuracy: 92.36% (R-squared: 0.9236)
+    - Average Error: Only ±LKR 1,023.30
+2. Key Features: 
+    a) Location Intelligence:
+    - Distance to university (primary factor)
+    - Distance to food outlets (≤ 2km)
+    - Distance to public transport (≤ 1.5km)
+    - Area safety score (1-10)
+    - Area type (main road/residential)
+    b) Amenity Analysis:
+        - Room types (single/shared-2/shared-4)
+        - Basic amenities (WiFi, bathroom type)
+        - Premium features (AC, kitchen type)
+        - Utilities inclusion
+        - Security features (CCTV, warden)
 c) Market Dynamics:
 Seasonal pricing (academic calendar)
 Event-based adjustments
